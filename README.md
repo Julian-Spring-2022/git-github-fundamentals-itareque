@@ -1,4 +1,4 @@
-I have read this file. Thanks!
+I have read the file. Thanks!
 
 # :wave: The Basics of GitHub 
 
