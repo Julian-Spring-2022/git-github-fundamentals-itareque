@@ -2,6 +2,7 @@ I have read the file. Thanks!
 
 New Change!!!
 
+Pull Req.
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
